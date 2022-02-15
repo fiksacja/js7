@@ -1,9 +1,9 @@
-let firstNumber = 55
-let secondNumber = 77
+let fNumber = 55
+let sNumber = 77
 
 function sum(firstNumber, secondNumber) {
     let result = firstNumber + secondNumber;
     return result;
 }
 
-console.log(sum (firstNumber, secondNumber));
+console.log(sum (fNumber, sNumber));
